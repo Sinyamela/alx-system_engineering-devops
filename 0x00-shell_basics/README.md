@@ -1,2 +1,2 @@
-Script that prints the absolute path name of the working directory
-Task0. Where am I?
+Script that displays the content list of your current directory
+Task1. What's in there?
